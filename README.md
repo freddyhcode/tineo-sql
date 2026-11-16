@@ -1,4 +1,4 @@
-# Tineo
+# Tineo SQL
 
 [![Nim](https://img.shields.io/badge/Nim-2.x-blue)](https://nim-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
